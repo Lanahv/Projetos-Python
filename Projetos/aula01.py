@@ -1,3 +1,8 @@
-print("Olá mundo!")
-print("Marcio Fernando Maia")
-print("20*10")
+#print
+
+"""
+    print("Olá mundo!")
+    print("Marcio Fernando Maia")
+    print("num1*num2")
+"""
+
