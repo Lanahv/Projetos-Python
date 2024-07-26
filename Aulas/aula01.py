@@ -82,6 +82,7 @@ patas = int(input("Digite o número de patas do cachorro: "))
 animal1 = Animal(raca, cor, patas)
 animal1.informacao()
 """
+
 class Animal:
     def __init__(self, raca, cor, patas):
         self.raca = raca
