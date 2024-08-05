@@ -10,3 +10,8 @@ print(dados)
 #Interpretar documentação
 # Interpretação de documentação é essencial para trabalhar com APIs
 # Exemplo: https://requests.readthedocs.io/en/latest/
+
+
+#Exemplos de API´s
+#Cotação do dollar
+#Clima Tempo

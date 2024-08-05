@@ -3,9 +3,12 @@ import time
 
 # Lista de URLs que você deseja abrir
 urls = [
-    "https://portifoliodomaia.netlify.app",
-    "https://chatgpt.com",
-    "https://mercadolivre.com.br"
+    "https://www.fiec.com.br/site/procsel/listar.do",
+    "https://urhsistemas.cps.sp.gov.br/dgsdad/SelecaoPublica/",
+    "http://delimeira.educacao.sp.gov.br",
+    "http://www.educacao.sp.gov.br/",
+    "https://sed.educacao.sp.gov.br/",
+   
 ]
 
 # Função para abrir as URLs

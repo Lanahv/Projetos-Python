@@ -18,3 +18,9 @@ print(dicionario)
 # Trabalhando com sets
 conjunto = {1, 2, 3, 4, 5}
 print(conjunto)
+
+
+#talvez
+
+#sets
+
