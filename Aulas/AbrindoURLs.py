@@ -24,7 +24,6 @@ urls = [
     "https://tccnicholas.netlify.app/",
     "https://cainelles.github.io/tccpaulo/inicio.html",
     "https://vinicius223.github.io/TCCvinicius/",
- 
 ]
 
 # Função para abrir as URLs
